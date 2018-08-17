@@ -31,5 +31,5 @@ This can be effectively accomplished by introducing a new logical bypass span be
 We base our experiments in a set of 124 test-case network topologies.
 
 <p align="center">
-  <img width="1000" src="Images/Fig5.png">
+  <img width="600" src="Images/Fig5.png">
 </p>
